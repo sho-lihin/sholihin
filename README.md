@@ -1,5 +1,6 @@
 ﻿# Machine Learning face-recognition 📷
- ![Foto](https://user-images.githubusercontent.com/48589121/200715958-b3988afd-fa22-40e9-8c9e-3b60cff442a9.png)
+ ![Foto](![Result](https://github.com/user-attachments/assets/fb11e3ec-0a98-4068-a877-220276f5abb3)
+
 
 Face recognition dengan dataset yang telah tersedia.
 ### 📸 Untuk menjalankannya
